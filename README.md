@@ -81,6 +81,7 @@ app/
 │   ├── activity_cadastro.xml
 │   ├── activity_carrinho.xml
 │   └── item_carrinho.xml
+```
 📚 Licença
 Este projeto foi desenvolvido para fins educacionais como parte do curso de Projeto Integrador em Tecnologia da Informação II da UFMS.
 
